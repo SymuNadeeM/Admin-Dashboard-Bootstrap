@@ -1,0 +1,77 @@
+.featured_left {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  padding: 10px;
+}
+
+.featured_div {
+  margin-top: 30px;
+}
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: gray;
+}
+.title {
+  font-size: 16px;
+  font-weight: 500;
+}
+.Fe_bottom {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.featuredChart {
+  width: 100px;
+  height: 100px;
+}
+.title {
+  margin-top: 5px;
+  font-weight: 500;
+  color: gray;
+}
+.amount {
+  font-size: 30px;
+}
+.desc {
+  font-weight: 300;
+  font-size: 15px;
+  color: grey;
+  text-align: center;
+}
+.summary {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.s_item {
+  text-align: center;
+}
+.itemTitle {
+  font-size: 14px;
+  color: gray;
+}
+.itemResult {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+  font-size: 14px;
+  color: green;
+  margin-bottom: -10px;
+}
+
+.itm_icon1 {
+  color: red;
+}
+.resultAmount1 {
+  color: red;
+}
+
+/* 
+********Recharts***********
+---------------------------*/

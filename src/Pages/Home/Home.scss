@@ -1,0 +1,13 @@
+// .home {
+//   background-color: cornflowerblue;
+//   .title {
+//     color: white;
+//   }
+// }
+
+.home {
+  display: flex;
+  .middle_part {
+    flex: 6;
+  }
+}
